@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/2798
+
 n, m = list(map(int, input().split(' ')))
 data = list(map(int, input().split(' ')))
 
