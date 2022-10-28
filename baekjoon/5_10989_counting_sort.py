@@ -1,4 +1,5 @@
 # https://www.acmicpc.net/problem/10989
+# 02. 기본정렬 알고리즘 - 핵심유형 문제풀이
 # 파이썬 기본 정렬기능으로 못푼다.
 # 수의 범위가 제한적일때 계수 정렬(Counting Sort) 사용 -> 시간복잡도 O(N)
 # 데이터의 개수가 많을 때 파이썬에서는 input보다 sys.stdin.readline()을 사용해야 한다.
